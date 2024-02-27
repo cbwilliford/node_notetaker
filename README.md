@@ -1,1 +1,1 @@
-# node_notetaker
+Basic note taking app from Node course
